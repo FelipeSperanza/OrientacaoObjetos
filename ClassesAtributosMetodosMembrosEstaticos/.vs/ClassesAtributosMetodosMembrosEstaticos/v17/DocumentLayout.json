@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ClassesAtributosMetodosMembrosEstaticos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACF1E73-3FA6-4338-BF1F-52218215806F}|ExercicioProduto\\ExercicioProduto.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\classesatributosmetodosmembrosestaticos\\exercicioproduto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACF1E73-3FA6-4338-BF1F-52218215806F}|ExercicioProduto\\ExercicioProduto.csproj|solutionrelative:exercicioproduto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACF1E73-3FA6-4338-BF1F-52218215806F}|ExercicioProduto\\ExercicioProduto.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\classesatributosmetodosmembrosestaticos\\exercicioproduto\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACF1E73-3FA6-4338-BF1F-52218215806F}|ExercicioProduto\\ExercicioProduto.csproj|solutionrelative:exercicioproduto\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE9BD0-84B1-45D6-B0DE-B8950D9A8B70}|AreaTriangulo\\AreaTriangulo.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\classesatributosmetodosmembrosestaticos\\areatriangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DE9BD0-84B1-45D6-B0DE-B8950D9A8B70}|AreaTriangulo\\AreaTriangulo.csproj|solutionrelative:areatriangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE9BD0-84B1-45D6-B0DE-B8950D9A8B70}|AreaTriangulo\\AreaTriangulo.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\classesatributosmetodosmembrosestaticos\\areatriangulo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DE9BD0-84B1-45D6-B0DE-B8950D9A8B70}|AreaTriangulo\\AreaTriangulo.csproj|solutionrelative:areatriangulo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444BD83B-FCDB-4721-B459-AD97A75A525F}|SalarioFuncionario\\SalarioFuncionario.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\classesatributosmetodosmembrosestaticos\\salariofuncionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444BD83B-FCDB-4721-B459-AD97A75A525F}|SalarioFuncionario\\SalarioFuncionario.csproj|solutionrelative:salariofuncionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444BD83B-FCDB-4721-B459-AD97A75A525F}|SalarioFuncionario\\SalarioFuncionario.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\classesatributosmetodosmembrosestaticos\\salariofuncionario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444BD83B-FCDB-4721-B459-AD97A75A525F}|SalarioFuncionario\\SalarioFuncionario.csproj|solutionrelative:salariofuncionario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8710CDDD-3C12-4D42-A753-55846973EAB4}|PessoaMaisVelha\\PessoaMaisVelha.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\classesatributosmetodosmembrosestaticos\\pessoamaisvelha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8710CDDD-3C12-4D42-A753-55846973EAB4}|PessoaMaisVelha\\PessoaMaisVelha.csproj|solutionrelative:pessoamaisvelha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8710CDDD-3C12-4D42-A753-55846973EAB4}|PessoaMaisVelha\\PessoaMaisVelha.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\classesatributosmetodosmembrosestaticos\\pessoamaisvelha\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8710CDDD-3C12-4D42-A753-55846973EAB4}|PessoaMaisVelha\\PessoaMaisVelha.csproj|solutionrelative:pessoamaisvelha\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ClassesAtributosMetodosMembrosEstaticos\\ExercicioProduto\\Produto.cs",
+              "RelativeDocumentMoniker": "ExercicioProduto\\Produto.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ClassesAtributosMetodosMembrosEstaticos\\ExercicioProduto\\Produto.cs",
+              "RelativeToolTip": "ExercicioProduto\\Produto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAApwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T02:41:53.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ClassesAtributosMetodosMembrosEstaticos\\ExercicioProduto\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioProduto\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ClassesAtributosMetodosMembrosEstaticos\\ExercicioProduto\\Program.cs",
+              "RelativeToolTip": "ExercicioProduto\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T02:41:44.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ClassesAtributosMetodosMembrosEstaticos\\SalarioFuncionario\\Funcionario.cs",
+              "RelativeDocumentMoniker": "SalarioFuncionario\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ClassesAtributosMetodosMembrosEstaticos\\SalarioFuncionario\\Funcionario.cs",
+              "RelativeToolTip": "SalarioFuncionario\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T02:21:55.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ClassesAtributosMetodosMembrosEstaticos\\SalarioFuncionario\\Program.cs",
+              "RelativeDocumentMoniker": "SalarioFuncionario\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ClassesAtributosMetodosMembrosEstaticos\\SalarioFuncionario\\Program.cs",
+              "RelativeToolTip": "SalarioFuncionario\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T02:21:28.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ClassesAtributosMetodosMembrosEstaticos\\PessoaMaisVelha\\Pessoa.cs",
+              "RelativeDocumentMoniker": "PessoaMaisVelha\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ClassesAtributosMetodosMembrosEstaticos\\PessoaMaisVelha\\Pessoa.cs",
+              "RelativeToolTip": "PessoaMaisVelha\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T02:16:41.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ClassesAtributosMetodosMembrosEstaticos\\PessoaMaisVelha\\Program.cs",
+              "RelativeDocumentMoniker": "PessoaMaisVelha\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ClassesAtributosMetodosMembrosEstaticos\\PessoaMaisVelha\\Program.cs",
+              "RelativeToolTip": "PessoaMaisVelha\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T02:16:25.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ClassesAtributosMetodosMembrosEstaticos\\AreaTriangulo\\Triangulo.cs",
+              "RelativeDocumentMoniker": "AreaTriangulo\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ClassesAtributosMetodosMembrosEstaticos\\AreaTriangulo\\Triangulo.cs",
+              "RelativeToolTip": "AreaTriangulo\\Triangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T02:05:15.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ClassesAtributosMetodosMembrosEstaticos\\AreaTriangulo\\Program.cs",
+              "RelativeDocumentMoniker": "AreaTriangulo\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ClassesAtributosMetodosMembrosEstaticos\\AreaTriangulo\\Program.cs",
+              "RelativeToolTip": "AreaTriangulo\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T02:04:11.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\SalarioFuncionario\bin\Debug\net8.0\SalarioFuncionario.exe
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\SalarioFuncionario\bin\Debug\net8.0\SalarioFuncionario.deps.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\SalarioFuncionario\bin\Debug\net8.0\SalarioFuncionario.runtimeconfig.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\SalarioFuncionario\bin\Debug\net8.0\SalarioFuncionario.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\SalarioFuncionario\bin\Debug\net8.0\SalarioFuncionario.pdb
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\SalarioFuncionario\obj\Debug\net8.0\SalarioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\SalarioFuncionario\obj\Debug\net8.0\SalarioFuncionario.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\SalarioFuncionario\obj\Debug\net8.0\SalarioFuncionario.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\SalarioFuncionario\obj\Debug\net8.0\SalarioFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\SalarioFuncionario\obj\Debug\net8.0\SalarioFuncionario.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\SalarioFuncionario\obj\Debug\net8.0\refint\SalarioFuncionario.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\SalarioFuncionario\obj\Debug\net8.0\SalarioFuncionario.pdb
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\SalarioFuncionario\obj\Debug\net8.0\SalarioFuncionario.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\SalarioFuncionario\obj\Debug\net8.0\ref\SalarioFuncionario.dll

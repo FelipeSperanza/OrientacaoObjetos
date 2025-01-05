@@ -1,0 +1,14 @@
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\PessoaMaisVelha\bin\Debug\net8.0\PessoaMaisVelha.exe
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\PessoaMaisVelha\bin\Debug\net8.0\PessoaMaisVelha.deps.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\PessoaMaisVelha\bin\Debug\net8.0\PessoaMaisVelha.runtimeconfig.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\PessoaMaisVelha\bin\Debug\net8.0\PessoaMaisVelha.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\PessoaMaisVelha\bin\Debug\net8.0\PessoaMaisVelha.pdb
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\PessoaMaisVelha\obj\Debug\net8.0\PessoaMaisVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\PessoaMaisVelha\obj\Debug\net8.0\PessoaMaisVelha.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\PessoaMaisVelha\obj\Debug\net8.0\PessoaMaisVelha.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\PessoaMaisVelha\obj\Debug\net8.0\PessoaMaisVelha.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\PessoaMaisVelha\obj\Debug\net8.0\PessoaMaisVelha.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\PessoaMaisVelha\obj\Debug\net8.0\refint\PessoaMaisVelha.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\PessoaMaisVelha\obj\Debug\net8.0\PessoaMaisVelha.pdb
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\PessoaMaisVelha\obj\Debug\net8.0\PessoaMaisVelha.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\PessoaMaisVelha\obj\Debug\net8.0\ref\PessoaMaisVelha.dll

@@ -1,0 +1,14 @@
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\AreaTriangulo\bin\Debug\net8.0\AreaTriangulo.exe
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\AreaTriangulo\bin\Debug\net8.0\AreaTriangulo.deps.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\AreaTriangulo\bin\Debug\net8.0\AreaTriangulo.runtimeconfig.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\AreaTriangulo\bin\Debug\net8.0\AreaTriangulo.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\AreaTriangulo\bin\Debug\net8.0\AreaTriangulo.pdb
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\AreaTriangulo\obj\Debug\net8.0\refint\AreaTriangulo.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.pdb
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\AreaTriangulo\obj\Debug\net8.0\ref\AreaTriangulo.dll
