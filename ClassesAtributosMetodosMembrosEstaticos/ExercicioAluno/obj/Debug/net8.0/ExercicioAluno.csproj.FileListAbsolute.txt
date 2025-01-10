@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAluno\bin\Debug\net8.0\ExercicioAluno.exe
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAluno\bin\Debug\net8.0\ExercicioAluno.deps.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAluno\bin\Debug\net8.0\ExercicioAluno.runtimeconfig.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAluno\bin\Debug\net8.0\ExercicioAluno.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAluno\bin\Debug\net8.0\ExercicioAluno.pdb
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAluno\obj\Debug\net8.0\ExercicioAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAluno\obj\Debug\net8.0\ExercicioAluno.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAluno\obj\Debug\net8.0\ExercicioAluno.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAluno\obj\Debug\net8.0\ExercicioAluno.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAluno\obj\Debug\net8.0\ExercicioAluno.sourcelink.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAluno\obj\Debug\net8.0\ExercicioAluno.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAluno\obj\Debug\net8.0\refint\ExercicioAluno.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAluno\obj\Debug\net8.0\ExercicioAluno.pdb
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAluno\obj\Debug\net8.0\ExercicioAluno.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAluno\obj\Debug\net8.0\ref\ExercicioAluno.dll

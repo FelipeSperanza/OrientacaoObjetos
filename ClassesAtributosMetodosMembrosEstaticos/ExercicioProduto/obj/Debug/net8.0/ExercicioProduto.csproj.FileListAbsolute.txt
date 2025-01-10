@@ -12,3 +12,4 @@ C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstatico
 C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioProduto\obj\Debug\net8.0\ExercicioProduto.pdb
 C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioProduto\obj\Debug\net8.0\ExercicioProduto.genruntimeconfig.cache
 C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioProduto\obj\Debug\net8.0\ref\ExercicioProduto.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioProduto\obj\Debug\net8.0\ExercicioProduto.sourcelink.json

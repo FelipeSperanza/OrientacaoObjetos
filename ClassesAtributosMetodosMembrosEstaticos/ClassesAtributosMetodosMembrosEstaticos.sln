@@ -3,13 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaTriangulo", "AreaTriangulo\AreaTriangulo.csproj", "{92DE9BD0-84B1-45D6-B0DE-B8950D9A8B70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaTriangulo", "AreaTriangulo\AreaTriangulo.csproj", "{92DE9BD0-84B1-45D6-B0DE-B8950D9A8B70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PessoaMaisVelha", "PessoaMaisVelha\PessoaMaisVelha.csproj", "{8710CDDD-3C12-4D42-A753-55846973EAB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PessoaMaisVelha", "PessoaMaisVelha\PessoaMaisVelha.csproj", "{8710CDDD-3C12-4D42-A753-55846973EAB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalarioFuncionario", "SalarioFuncionario\SalarioFuncionario.csproj", "{444BD83B-FCDB-4721-B459-AD97A75A525F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalarioFuncionario", "SalarioFuncionario\SalarioFuncionario.csproj", "{444BD83B-FCDB-4721-B459-AD97A75A525F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioProduto", "ExercicioProduto\ExercicioProduto.csproj", "{3ACF1E73-3FA6-4338-BF1F-52218215806F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioProduto", "ExercicioProduto\ExercicioProduto.csproj", "{3ACF1E73-3FA6-4338-BF1F-52218215806F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioAluno", "ExercicioAluno\ExercicioAluno.csproj", "{6DE9BB58-D969-4DB4-A233-A5E8ED4349C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioRetangulo", "ExercicioRetangulo\ExercicioRetangulo.csproj", "{FC8C104C-AA19-41CA-99D6-F0D0EF8F1634}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioAumentoSalario", "ExercicioAumentoSalario\ExercicioAumentoSalario.csproj", "{2F4A71FC-5957-4E98-8546-D6BB5D7D1BAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioMembroEstaticoDolar", "ExercicioMembroEstaticoDolar\ExercicioMembroEstaticoDolar.csproj", "{5EC21966-5829-40E2-A729-7B1B66A0515A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +41,22 @@ Global
 		{3ACF1E73-3FA6-4338-BF1F-52218215806F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3ACF1E73-3FA6-4338-BF1F-52218215806F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3ACF1E73-3FA6-4338-BF1F-52218215806F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE9BB58-D969-4DB4-A233-A5E8ED4349C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE9BB58-D969-4DB4-A233-A5E8ED4349C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE9BB58-D969-4DB4-A233-A5E8ED4349C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE9BB58-D969-4DB4-A233-A5E8ED4349C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC8C104C-AA19-41CA-99D6-F0D0EF8F1634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8C104C-AA19-41CA-99D6-F0D0EF8F1634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8C104C-AA19-41CA-99D6-F0D0EF8F1634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8C104C-AA19-41CA-99D6-F0D0EF8F1634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F4A71FC-5957-4E98-8546-D6BB5D7D1BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F4A71FC-5957-4E98-8546-D6BB5D7D1BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F4A71FC-5957-4E98-8546-D6BB5D7D1BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F4A71FC-5957-4E98-8546-D6BB5D7D1BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EC21966-5829-40E2-A729-7B1B66A0515A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC21966-5829-40E2-A729-7B1B66A0515A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC21966-5829-40E2-A729-7B1B66A0515A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC21966-5829-40E2-A729-7B1B66A0515A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

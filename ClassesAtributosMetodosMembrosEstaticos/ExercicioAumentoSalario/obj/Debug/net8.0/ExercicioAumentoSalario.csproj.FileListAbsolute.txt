@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAumentoSalario\bin\Debug\net8.0\ExercicioAumentoSalario.exe
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAumentoSalario\bin\Debug\net8.0\ExercicioAumentoSalario.deps.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAumentoSalario\bin\Debug\net8.0\ExercicioAumentoSalario.runtimeconfig.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAumentoSalario\bin\Debug\net8.0\ExercicioAumentoSalario.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAumentoSalario\bin\Debug\net8.0\ExercicioAumentoSalario.pdb
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAumentoSalario\obj\Debug\net8.0\ExercicioAumentoSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAumentoSalario\obj\Debug\net8.0\ExercicioAumentoSalario.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAumentoSalario\obj\Debug\net8.0\ExercicioAumentoSalario.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAumentoSalario\obj\Debug\net8.0\ExercicioAumentoSalario.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAumentoSalario\obj\Debug\net8.0\ExercicioAumentoSalario.sourcelink.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAumentoSalario\obj\Debug\net8.0\ExercicioAumentoSalario.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAumentoSalario\obj\Debug\net8.0\refint\ExercicioAumentoSalario.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAumentoSalario\obj\Debug\net8.0\ExercicioAumentoSalario.pdb
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAumentoSalario\obj\Debug\net8.0\ExercicioAumentoSalario.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ClassesAtributosMetodosMembrosEstaticos\ExercicioAumentoSalario\obj\Debug\net8.0\ref\ExercicioAumentoSalario.dll

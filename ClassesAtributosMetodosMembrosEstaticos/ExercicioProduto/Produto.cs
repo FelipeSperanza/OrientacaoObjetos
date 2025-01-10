@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -25,6 +26,17 @@ namespace ExercicioProduto
         public void RemoverProdutos(int quant)
         {
             Quantidade -= quant;
+        }
+
+        public override string ToString()
+        {
+            return Nome
+                + ", $ "
+                + Preco.ToString("F2", CultureInfo.InvariantCulture)
+                + ", "
+                + Quantidade
+                + " unidades, Total: $ "
+                + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }
