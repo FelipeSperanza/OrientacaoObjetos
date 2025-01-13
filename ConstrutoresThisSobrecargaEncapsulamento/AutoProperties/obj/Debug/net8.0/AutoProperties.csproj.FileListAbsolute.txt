@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\AutoProperties\bin\Debug\net8.0\AutoProperties.exe
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\AutoProperties\bin\Debug\net8.0\AutoProperties.deps.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\AutoProperties\bin\Debug\net8.0\AutoProperties.runtimeconfig.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\AutoProperties\bin\Debug\net8.0\AutoProperties.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\AutoProperties\bin\Debug\net8.0\AutoProperties.pdb
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\AutoProperties\obj\Debug\net8.0\AutoProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\AutoProperties\obj\Debug\net8.0\AutoProperties.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\AutoProperties\obj\Debug\net8.0\AutoProperties.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\AutoProperties\obj\Debug\net8.0\AutoProperties.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\AutoProperties\obj\Debug\net8.0\AutoProperties.sourcelink.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\AutoProperties\obj\Debug\net8.0\AutoProperties.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\AutoProperties\obj\Debug\net8.0\refint\AutoProperties.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\AutoProperties\obj\Debug\net8.0\AutoProperties.pdb
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\AutoProperties\obj\Debug\net8.0\AutoProperties.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\AutoProperties\obj\Debug\net8.0\ref\AutoProperties.dll

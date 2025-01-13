@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.exe
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.deps.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.runtimeconfig.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.pdb
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.sourcelink.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\ExercicioFixacao\obj\Debug\net8.0\refint\ExercicioFixacao.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.pdb
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ConstrutoresThisSobrecargaEncapsulamento\ExercicioFixacao\obj\Debug\net8.0\ref\ExercicioFixacao.dll

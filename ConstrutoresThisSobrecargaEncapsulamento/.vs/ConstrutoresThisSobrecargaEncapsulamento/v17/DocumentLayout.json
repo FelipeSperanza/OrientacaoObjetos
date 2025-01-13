@@ -3,12 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0854534-9790-4186-885D-1A4689101C67}|Construtores\\Construtores.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\construtoresthissobrecargaencapsulamento\\construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0854534-9790-4186-885D-1A4689101C67}|Construtores\\Construtores.csproj|solutionrelative:construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B446218E-86AB-489B-BFA6-24D4FDB83495}|ExercicioFixacao\\ExercicioFixacao.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\construtoresthissobrecargaencapsulamento\\exerciciofixacao\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B446218E-86AB-489B-BFA6-24D4FDB83495}|ExercicioFixacao\\ExercicioFixacao.csproj|solutionrelative:exerciciofixacao\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B446218E-86AB-489B-BFA6-24D4FDB83495}|ExercicioFixacao\\ExercicioFixacao.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\construtoresthissobrecargaencapsulamento\\exerciciofixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B446218E-86AB-489B-BFA6-24D4FDB83495}|ExercicioFixacao\\ExercicioFixacao.csproj|solutionrelative:exerciciofixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667AE81E-57BD-4B0B-A208-27263FB17AAD}|PalavraThis\\PalavraThis.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\construtoresthissobrecargaencapsulamento\\palavrathis\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667AE81E-57BD-4B0B-A208-27263FB17AAD}|PalavraThis\\PalavraThis.csproj|solutionrelative:palavrathis\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A860811-1EBA-420B-9315-14FDC12A2138}|Encapsulamento\\Encapsulamento.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\construtoresthissobrecargaencapsulamento\\encapsulamento\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A860811-1EBA-420B-9315-14FDC12A2138}|Encapsulamento\\Encapsulamento.csproj|solutionrelative:encapsulamento\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0854534-9790-4186-885D-1A4689101C67}|Construtores\\Construtores.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\construtoresthissobrecargaencapsulamento\\construtores\\construtores.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0854534-9790-4186-885D-1A4689101C67}|Construtores\\Construtores.csproj|solutionrelative:construtores\\construtores.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0854534-9790-4186-885D-1A4689101C67}|Construtores\\Construtores.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\construtoresthissobrecargaencapsulamento\\construtores\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0854534-9790-4186-885D-1A4689101C67}|Construtores\\Construtores.csproj|solutionrelative:construtores\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0854534-9790-4186-885D-1A4689101C67}|Construtores\\Construtores.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\construtoresthissobrecargaencapsulamento\\construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0854534-9790-4186-885D-1A4689101C67}|Construtores\\Construtores.csproj|solutionrelative:construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A45FBF25-4F06-479F-8AE4-CB49AF341F67}|AutoProperties\\AutoProperties.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\construtoresthissobrecargaencapsulamento\\autoproperties\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A45FBF25-4F06-479F-8AE4-CB49AF341F67}|AutoProperties\\AutoProperties.csproj|solutionrelative:autoproperties\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A45FBF25-4F06-479F-8AE4-CB49AF341F67}|AutoProperties\\AutoProperties.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\construtoresthissobrecargaencapsulamento\\autoproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A45FBF25-4F06-479F-8AE4-CB49AF341F67}|AutoProperties\\AutoProperties.csproj|solutionrelative:autoproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC169B2-9CA9-4C4A-9092-BB41ED27D8C2}|Properties\\Properties.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\construtoresthissobrecargaencapsulamento\\properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC169B2-9CA9-4C4A-9092-BB41ED27D8C2}|Properties\\Properties.csproj|solutionrelative:properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC169B2-9CA9-4C4A-9092-BB41ED27D8C2}|Properties\\Properties.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\construtoresthissobrecargaencapsulamento\\properties\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC169B2-9CA9-4C4A-9092-BB41ED27D8C2}|Properties\\Properties.csproj|solutionrelative:properties\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A860811-1EBA-420B-9315-14FDC12A2138}|Encapsulamento\\Encapsulamento.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\construtoresthissobrecargaencapsulamento\\encapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A860811-1EBA-420B-9315-14FDC12A2138}|Encapsulamento\\Encapsulamento.csproj|solutionrelative:encapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0011672-36FE-48E7-8DF6-DA2157B6BABF}|Sobrecarga\\Sobrecarga.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\construtoresthissobrecargaencapsulamento\\sobrecarga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0011672-36FE-48E7-8DF6-DA2157B6BABF}|Sobrecarga\\Sobrecarga.csproj|solutionrelative:sobrecarga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0011672-36FE-48E7-8DF6-DA2157B6BABF}|Sobrecarga\\Sobrecarga.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\construtoresthissobrecargaencapsulamento\\sobrecarga\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0011672-36FE-48E7-8DF6-DA2157B6BABF}|Sobrecarga\\Sobrecarga.csproj|solutionrelative:sobrecarga\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667AE81E-57BD-4B0B-A208-27263FB17AAD}|PalavraThis\\PalavraThis.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\construtoresthissobrecargaencapsulamento\\palavrathis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667AE81E-57BD-4B0B-A208-27263FB17AAD}|PalavraThis\\PalavraThis.csproj|solutionrelative:palavrathis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,37 +70,195 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\ExercicioFixacao\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "ExercicioFixacao\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\ExercicioFixacao\\ContaBancaria.cs",
+              "RelativeToolTip": "ExercicioFixacao\\ContaBancaria.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T03:06:09.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Construtores",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\Construtores\\Construtores.csproj",
+              "RelativeDocumentMoniker": "Construtores\\Construtores.csproj",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\Construtores\\Construtores.csproj",
+              "RelativeToolTip": "Construtores\\Construtores.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T02:32:58.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\ExercicioFixacao\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioFixacao\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\ExercicioFixacao\\Program.cs",
+              "RelativeToolTip": "ExercicioFixacao\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T02:30:33.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\AutoProperties\\Produto.cs",
+              "RelativeDocumentMoniker": "AutoProperties\\Produto.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\AutoProperties\\Produto.cs",
+              "RelativeToolTip": "AutoProperties\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T03:04:31.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\AutoProperties\\Program.cs",
+              "RelativeDocumentMoniker": "AutoProperties\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\AutoProperties\\Program.cs",
+              "RelativeToolTip": "AutoProperties\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T03:04:23.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\Properties\\Produto.cs",
+              "RelativeDocumentMoniker": "Properties\\Produto.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\Properties\\Produto.cs",
+              "RelativeToolTip": "Properties\\Produto.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAcwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T02:52:24.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\Properties\\Program.cs",
+              "RelativeDocumentMoniker": "Properties\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\Properties\\Program.cs",
+              "RelativeToolTip": "Properties\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T02:52:07.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\Encapsulamento\\Produto.cs",
+              "RelativeDocumentMoniker": "Encapsulamento\\Produto.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\Encapsulamento\\Produto.cs",
+              "RelativeToolTip": "Encapsulamento\\Produto.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAowEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T02:32:14.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\Encapsulamento\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulamento\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\Encapsulamento\\Program.cs",
+              "RelativeToolTip": "Encapsulamento\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T02:32:07.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\PalavraThis\\Produto.cs",
+              "RelativeDocumentMoniker": "PalavraThis\\Produto.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\PalavraThis\\Produto.cs",
+              "RelativeToolTip": "PalavraThis\\Produto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T02:24:03.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\PalavraThis\\Program.cs",
+              "RelativeDocumentMoniker": "PalavraThis\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\PalavraThis\\Program.cs",
+              "RelativeToolTip": "PalavraThis\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T02:23:55.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\Sobrecarga\\Produto.cs",
+              "RelativeDocumentMoniker": "Sobrecarga\\Produto.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\Sobrecarga\\Produto.cs",
+              "RelativeToolTip": "Sobrecarga\\Produto.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAcwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T02:04:48.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\Sobrecarga\\Program.cs",
+              "RelativeDocumentMoniker": "Sobrecarga\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\Sobrecarga\\Program.cs",
+              "RelativeToolTip": "Sobrecarga\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T02:04:35.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\Construtores\\Produto.cs",
               "RelativeDocumentMoniker": "Construtores\\Produto.cs",
               "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\Construtores\\Produto.cs",
               "RelativeToolTip": "Construtores\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T17:32:06.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\Construtores\\Program.cs",
               "RelativeDocumentMoniker": "Construtores\\Program.cs",
               "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ConstrutoresThisSobrecargaEncapsulamento\\Construtores\\Program.cs",
               "RelativeToolTip": "Construtores\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T17:29:51.183Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
