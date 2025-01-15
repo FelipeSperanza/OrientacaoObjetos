@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\TipoReferenciaTipoValor\obj\Debug\net8.0\TipoReferenciaTipoValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\TipoReferenciaTipoValor\obj\Debug\net8.0\TipoReferenciaTipoValor.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\TipoReferenciaTipoValor\obj\Debug\net8.0\TipoReferenciaTipoValor.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\TipoReferenciaTipoValor\obj\Debug\net8.0\TipoReferenciaTipoValor.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\TipoReferenciaTipoValor\obj\Debug\net8.0\TipoReferenciaTipoValor.sourcelink.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\TipoReferenciaTipoValor\bin\Debug\net8.0\TipoReferenciaTipoValor.exe
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\TipoReferenciaTipoValor\bin\Debug\net8.0\TipoReferenciaTipoValor.deps.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\TipoReferenciaTipoValor\bin\Debug\net8.0\TipoReferenciaTipoValor.runtimeconfig.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\TipoReferenciaTipoValor\bin\Debug\net8.0\TipoReferenciaTipoValor.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\TipoReferenciaTipoValor\bin\Debug\net8.0\TipoReferenciaTipoValor.pdb
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\TipoReferenciaTipoValor\obj\Debug\net8.0\TipoReferenciaTipoValor.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\TipoReferenciaTipoValor\obj\Debug\net8.0\refint\TipoReferenciaTipoValor.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\TipoReferenciaTipoValor\obj\Debug\net8.0\TipoReferenciaTipoValor.pdb
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\TipoReferenciaTipoValor\obj\Debug\net8.0\TipoReferenciaTipoValor.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\TipoReferenciaTipoValor\obj\Debug\net8.0\ref\TipoReferenciaTipoValor.dll
