@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TipoReferenciaTipoValor")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ExercicioFixacaoVetor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+830aff5a40e823a1aca9054f5dd8271115f8861d")]
-[assembly: System.Reflection.AssemblyProductAttribute("TipoReferenciaTipoValor")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TipoReferenciaTipoValor")]
+[assembly: System.Reflection.AssemblyProductAttribute("ExercicioFixacaoVetor")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ExercicioFixacaoVetor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

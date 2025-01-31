@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ComportamentoDeMemoriaArraysListas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DC9A349-6F10-485D-B85C-B500BFE59B4A}|TipoReferenciaTipoValor\\TipoReferenciaTipoValor.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\comportamentodememoriaarrayslistas\\tiporeferenciatipovalor\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DC9A349-6F10-485D-B85C-B500BFE59B4A}|TipoReferenciaTipoValor\\TipoReferenciaTipoValor.csproj|solutionrelative:tiporeferenciatipovalor\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8D1CB44-7BDD-4CAC-9BB1-2F61DBF74868}|ExercicioFixacaoVetor\\ExercicioFixacaoVetor.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\comportamentodememoriaarrayslistas\\exerciciofixacaovetor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D1CB44-7BDD-4CAC-9BB1-2F61DBF74868}|ExercicioFixacaoVetor\\ExercicioFixacaoVetor.csproj|solutionrelative:exerciciofixacaovetor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D1CB44-7BDD-4CAC-9BB1-2F61DBF74868}|ExercicioFixacaoVetor\\ExercicioFixacaoVetor.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\comportamentodememoriaarrayslistas\\exerciciofixacaovetor\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D1CB44-7BDD-4CAC-9BB1-2F61DBF74868}|ExercicioFixacaoVetor\\ExercicioFixacaoVetor.csproj|solutionrelative:exerciciofixacaovetor\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DC9A349-6F10-485D-B85C-B500BFE59B4A}|TipoReferenciaTipoValor\\TipoReferenciaTipoValor.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\comportamentodememoriaarrayslistas\\tiporeferenciatipovalor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DC9A349-6F10-485D-B85C-B500BFE59B4A}|TipoReferenciaTipoValor\\TipoReferenciaTipoValor.csproj|solutionrelative:tiporeferenciatipovalor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC9A349-6F10-485D-B85C-B500BFE59B4A}|TipoReferenciaTipoValor\\TipoReferenciaTipoValor.csproj|c:\\users\\felipe\\desktop\\orientacaoobjetos\\comportamentodememoriaarrayslistas\\tiporeferenciatipovalor\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC9A349-6F10-485D-B85C-B500BFE59B4A}|TipoReferenciaTipoValor\\TipoReferenciaTipoValor.csproj|solutionrelative:tiporeferenciatipovalor\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estudante.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ComportamentoDeMemoriaArraysListas\\ExercicioFixacaoVetor\\Estudante.cs",
+              "RelativeDocumentMoniker": "ExercicioFixacaoVetor\\Estudante.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ComportamentoDeMemoriaArraysListas\\ExercicioFixacaoVetor\\Estudante.cs",
+              "RelativeToolTip": "ExercicioFixacaoVetor\\Estudante.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAMwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:05:48.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ComportamentoDeMemoriaArraysListas\\ExercicioFixacaoVetor\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioFixacaoVetor\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ComportamentoDeMemoriaArraysListas\\ExercicioFixacaoVetor\\Program.cs",
+              "RelativeToolTip": "ExercicioFixacaoVetor\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAWwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T02:16:00.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Point.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ComportamentoDeMemoriaArraysListas\\TipoReferenciaTipoValor\\Point.cs",
               "RelativeDocumentMoniker": "TipoReferenciaTipoValor\\Point.cs",
@@ -30,12 +64,11 @@
               "RelativeToolTip": "TipoReferenciaTipoValor\\Point.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:03:14.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T19:03:14.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\OrientacaoObjetos\\ComportamentoDeMemoriaArraysListas\\TipoReferenciaTipoValor\\Program.cs",
               "RelativeDocumentMoniker": "TipoReferenciaTipoValor\\Program.cs",
@@ -45,10 +78,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T18:37:52.198Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

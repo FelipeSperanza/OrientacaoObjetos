@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipoReferenciaTipoValor", "TipoReferenciaTipoValor\TipoReferenciaTipoValor.csproj", "{5DC9A349-6F10-485D-B85C-B500BFE59B4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipoReferenciaTipoValor", "TipoReferenciaTipoValor\TipoReferenciaTipoValor.csproj", "{5DC9A349-6F10-485D-B85C-B500BFE59B4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioFixacaoVetor", "ExercicioFixacaoVetor\ExercicioFixacaoVetor.csproj", "{B8D1CB44-7BDD-4CAC-9BB1-2F61DBF74868}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{5DC9A349-6F10-485D-B85C-B500BFE59B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DC9A349-6F10-485D-B85C-B500BFE59B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DC9A349-6F10-485D-B85C-B500BFE59B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D1CB44-7BDD-4CAC-9BB1-2F61DBF74868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D1CB44-7BDD-4CAC-9BB1-2F61DBF74868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D1CB44-7BDD-4CAC-9BB1-2F61DBF74868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D1CB44-7BDD-4CAC-9BB1-2F61DBF74868}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73DE396F-238F-47DD-8806-7DA4DE972F5C}
 	EndGlobalSection
 EndGlobal

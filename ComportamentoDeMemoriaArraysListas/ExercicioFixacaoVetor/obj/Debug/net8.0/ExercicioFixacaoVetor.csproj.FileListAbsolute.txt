@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\ExercicioFixacaoVetor\bin\Debug\net8.0\ExercicioFixacaoVetor.exe
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\ExercicioFixacaoVetor\bin\Debug\net8.0\ExercicioFixacaoVetor.deps.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\ExercicioFixacaoVetor\bin\Debug\net8.0\ExercicioFixacaoVetor.runtimeconfig.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\ExercicioFixacaoVetor\bin\Debug\net8.0\ExercicioFixacaoVetor.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\ExercicioFixacaoVetor\bin\Debug\net8.0\ExercicioFixacaoVetor.pdb
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\ExercicioFixacaoVetor\obj\Debug\net8.0\ExercicioFixacaoVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\ExercicioFixacaoVetor\obj\Debug\net8.0\ExercicioFixacaoVetor.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\ExercicioFixacaoVetor\obj\Debug\net8.0\ExercicioFixacaoVetor.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\ExercicioFixacaoVetor\obj\Debug\net8.0\ExercicioFixacaoVetor.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\ExercicioFixacaoVetor\obj\Debug\net8.0\ExercicioFixacaoVetor.sourcelink.json
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\ExercicioFixacaoVetor\obj\Debug\net8.0\ExercicioFixacaoVetor.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\ExercicioFixacaoVetor\obj\Debug\net8.0\refint\ExercicioFixacaoVetor.dll
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\ExercicioFixacaoVetor\obj\Debug\net8.0\ExercicioFixacaoVetor.pdb
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\ExercicioFixacaoVetor\obj\Debug\net8.0\ExercicioFixacaoVetor.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\OrientacaoObjetos\ComportamentoDeMemoriaArraysListas\ExercicioFixacaoVetor\obj\Debug\net8.0\ref\ExercicioFixacaoVetor.dll
